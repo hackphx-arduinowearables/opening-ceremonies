@@ -123,12 +123,12 @@ Some giveways throughout event, A't like to promote prizes ahead of time. Not ne
 
 
 ##THANK TO OUR SPONSORS
-[ASU CUbic Ubiquitous Computing Lab](http://cubic.asu.edu)
-[Seeed Studios](http://www.seeedstudio.com/depot/)
-[Pebble](https://getpebble.com/)
-[Shapeways](http://www.shapeways.com/)
-[HeatSync Labs Members](http://www.heatsynclabs.org/)
-[Github](https://github.com/)
+* [ASU CUbic Ubiquitous Computing Lab](http://cubic.asu.edu)
+* [Seeed Studios](http://www.seeedstudio.com/depot/)
+* [Pebble](https://getpebble.com/)
+* [Shapeways](http://www.shapeways.com/)
+* [HeatSync Labs Members](http://www.heatsynclabs.org/)
+* [Github](https://github.com/)
 
 
 
