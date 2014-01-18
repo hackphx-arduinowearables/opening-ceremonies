@@ -94,21 +94,17 @@ Pick 6 times randomly to draw and trade between all these modules
 * Be nice
 * Must consent to video and photos throughout the event. 
 * Already signed waivers
---------
-* Must use our 'secret' ingredient, the Xadow platform.
-* You may purchase additional parts but costs will be limited to keep everyone on a level playing field. All contingent upon judge approval with proof of purchase upon request. 100? 
-* Must upload source code, hardware designs, BOM, etc to GitHub at contest close for judges to evaluate. Someone should be able to reproduce your project based on your GitHub repo.
-
 
 ###Judge Prize
 * Right now me and Blaine, May add more.
 * Basically dictatorship, well know what we like when we see it
-* Follow our rules. Just make something you're proud of
-* Might be technical, might be beautiful. Well know it though, trust us.
+* Must use our 'secret' ingredient, the Xadow platform.
+* You may purchase additional parts but costs will be limited to keep everyone on a level playing field. All contingent upon judge approval with proof of purchase upon request. 100? 
+* Must upload source code, hardware designs, BOM, etc to GitHub at contest close for judges to evaluate. Someone should be able to reproduce your project based on your GitHub repo.
 
 ###Jury
 * Beats me what you guys will judge on? 
-* Do you care about the rules? 
+* Do you care about the same rules judges do? 
 
 
 
