@@ -18,7 +18,7 @@
 
 ##Hackhpx
 Want to support crazy hackers and hackathons in Phoenix. Not paid, by our sponsors nor the city. Just here to have fun.
-* [Jacob Rosenthal](http://jacobrosenthal.com/) - Prototyping consultant - I made hardware, I could make hardware for you, your kickstarter or prototype
+* [Jacob Rosenthal](http://jacobrosenthal.com/) - Prototyping consultant - I make hardware, I could make hardware for you, your kickstarter or prototype
 * [Blaine Bublitz - Iced Dev](http://www.iceddev.com/) - JS Development
 
 
